@@ -1,4 +1,6 @@
 # PITANK
+<img width="1080" alt="image" src="https://github.com/philosiraptor/PITANK/assets/7144712/3c475833-15ed-4910-96b3-ce79eb5d373b">
+
 a little tracked vehicle for the raspberry pi zero two.
 
 you can download a raspberry pi image here:
