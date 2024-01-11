@@ -16,3 +16,5 @@ and GND for servos is any gnd on the GPIO header
 code is written in c# running .net core 7.0 utilizing Blazor server side to build the highly responsive web interface
 if using the system image, it is available via port 8001
 additional, please use the offical rpi imager software to apply new credentials 
+<img width="768" alt="image" src="https://github.com/philosiraptor/PITANK/assets/7144712/89f5a9b1-f8a2-4b84-8dcb-f21032d63584">
+its tiny, but it seems to traverse all manner of residential flooring without issue, just big enough to explore !
